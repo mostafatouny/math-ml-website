@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Math for ML Study Group</title>
+    <link>https://mostafatouny.github.io/math-ml-website/publication_types/</link>
+      <atom:link href="https://mostafatouny.github.io/math-ml-website/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mostafatouny.github.io/math-ml-website/media/icon_huce1c86ee78d2a6fc1783caa6f0d01216_89852_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://mostafatouny.github.io/math-ml-website/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

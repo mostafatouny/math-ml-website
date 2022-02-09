@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math for ML Study Group</title>
+    <link>https://mostafatouny.github.io/math-ml-website/</link>
+      <atom:link href="https://mostafatouny.github.io/math-ml-website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math for ML Study Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mostafatouny.github.io/math-ml-website/media/icon_huce1c86ee78d2a6fc1783caa6f0d01216_89852_512x512_fill_lanczos_center_2.png</url>
+      <title>Math for ML Study Group</title>
+      <link>https://mostafatouny.github.io/math-ml-website/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://mostafatouny.github.io/math-ml-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mostafatouny.github.io/math-ml-website/about/</guid>
+      <description>&lt;p&gt;about page here, with more info&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mostafatouny.github.io/math-ml-website/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mostafatouny.github.io/math-ml-website/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mostafatouny.github.io/math-ml-website/meetings_publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mostafatouny.github.io/math-ml-website/meetings_publication/</guid>
+      <description>&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
+&lt;h3 id=&#34;pre&#34;&gt;Pre&lt;/h3&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;Intro &lt;em&gt;(20/01/2022)&lt;/em&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/math-ml-intro:8&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/esaWp9jZxHDBTr1fC6OqGFMj/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Objectives&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate group&amp;rsquo;s pedagogy, Including motivation, goals, and activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;week-0&#34;&gt;Week 0&lt;/h3&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+  &lt;summary&gt;First Meeting &lt;em&gt;(05/02/2022)&lt;/em&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/math-ml-first-meeting:2&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Objectives&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Networking, Where Members introduce themselves &lt;em&gt;(15 min)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Discussion, On students&#39; collaboration and online communities; Their challenges and suggested solutions  &lt;em&gt;(20 min)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Discussion, On members&#39; skills and goals, and how to leverage that for projects and subsidy learning &lt;em&gt;(10 min)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Gaming, Multiplayer among members &lt;em&gt;(5 min)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Summary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;members introduce themselves
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;amir&lt;/em&gt;: fresh highschool alumini. applied to undergrad cs school in india. online community is a new experience for him. mostly had been self-studying on his own.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dharshen k&lt;/em&gt;: india. electronics and communication engineering. interestd more in computer science.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;forkan&lt;/em&gt;: turkey. mechatronics master student, background is in control engineering. done previous projects in machine learning and dynamical systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; pointed to curious intersections between computer science and information/communication, and that he wishes to benefit from dharshen&amp;rsquo;s background.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dharshen k&lt;/em&gt; expressed why he is motivated him to connect with people through the internet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; addressed that many students belittle the value of conceptual ideas, stories, and motivations, which shaped science directions.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;amir&lt;/em&gt; talked about nasa&amp;rsquo;s new telescope, and members discussed with him the significance of that. &lt;em&gt;mostafa&lt;/em&gt; also addressed with him how fields of engineering and science and mutually benefiting each other.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;forkan&lt;/em&gt; explained how machine learning is contributing to control engineering. Dynamical systems like drones require a designed controller to make them stable. Machine learning can assist in that.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; is delighted to have &lt;em&gt;frankon&lt;/em&gt;, as he has a domain application through which machine learning can be applied. mostafa values the value of having some end-user to assess the quality of algorithmic techniques deployed.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; suggested doing a project related to dynamical systems through purely simulations, Benefiting from &lt;em&gt;forkan&lt;/em&gt;&amp;rsquo;s background.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quotes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt;: Software engineers build what is well-known to be changed in the future, but mathematicians establish ever lasting truths.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dharshen k&lt;/em&gt;: I think everyone knows india is one of the most competitive contries. the ratio of acceptance in good jobs is low.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dharshen k&lt;/em&gt;: Studnets usually reveal only 50% of their work.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt;: I just wanted to justify for everyone that amir is capable of actively contribuiting to the discussion of this group.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;forkan&lt;/em&gt;: Control systems are applicable to any domain, and that is interesting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
