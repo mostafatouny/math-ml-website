@@ -35,37 +35,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mostafatouny.github.io/math-ml-website/meetings/</guid>
       <description>&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
-&lt;h3 id=&#34;pre&#34;&gt;Pre&lt;/h3&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
   &lt;summary&gt;Intro &lt;em&gt;(20/01/2022)&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Links&lt;/p&gt;
+  &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/math-ml-intro:8&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/esaWp9jZxHDBTr1fC6OqGFMj/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Communicate group&amp;rsquo;s pedagogy, Including motivation, goals, and activities.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;week-0&#34;&gt;Week 0&lt;/h3&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
   &lt;summary&gt;First Meeting &lt;em&gt;(05/02/2022)&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Links&lt;/p&gt;
+  &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/math-ml-first-meeting:2&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Networking, Where Members introduce themselves &lt;em&gt;(15 min)&lt;/em&gt;&lt;/li&gt;
@@ -73,8 +61,6 @@
 &lt;li&gt;Discussion, On members&#39; skills and goals, and how to leverage that for projects and subsidy learning &lt;em&gt;(10 min)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Gaming, Multiplayer among members &lt;em&gt;(5 min)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;p&gt;Summary&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;members introduce themselves
@@ -92,8 +78,6 @@
 &lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; is delighted to have &lt;em&gt;frankon&lt;/em&gt;, as he has a domain application through which machine learning can be applied. mostafa values the value of having some end-user to assess the quality of algorithmic techniques deployed.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; suggested doing a project related to dynamical systems through purely simulations, Benefiting from &lt;em&gt;forkan&lt;/em&gt;&amp;rsquo;s background.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;p&gt;Quotes&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt;: Software engineers build what is well-known to be changed in the future, but mathematicians establish ever lasting truths.&lt;/li&gt;
@@ -102,11 +86,34 @@
 &lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt;: I just wanted to justify for everyone that amir is capable of actively contribuiting to the discussion of this group.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;forkan&lt;/em&gt;: Control systems are applicable to any domain, and that is interesting.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;Weekly Meeting &lt;em&gt;(12/02/2022)&lt;/em&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/math-ml-weekly-12-02-2022:c&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Summary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; recommended &lt;em&gt;authora&lt;/em&gt; platform and &lt;em&gt;typora&lt;/em&gt; editor for learning latex and producing technical documents.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; addressed the concern typesetting math might be timely consuming for members are suggested scanning paper documents or recording while writing on a paper, as alternatives.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;amir&lt;/em&gt;: the book is a sweet spot between challenging and easy. Systems of linear equations was easy but vector spaces section was more difficult.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; guided &lt;em&gt;amir&lt;/em&gt; that vector spaces chapter assumes some exposure in abstract/pure mathematics, and pointed some references.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; briefly explains to &lt;em&gt;amir&lt;/em&gt; the motivation for explicitly defining everything in vector spaces, in light of abstract algebra and math&amp;rsquo;s emphasis on clear definitions.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; recommended gilbert strang&amp;rsquo;s course on MIT&amp;rsquo;s OpenCourseware also.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; pointed out math for machine learning book might be a second step, and hence some prior background might be useful.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt; encouraged amir to become a leader to motivate others.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;james&lt;/em&gt; joined within the last 7 minutes of the meeting.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;james&lt;/em&gt; introduces himself: a machine learning engineering for 7 years; interested in reading papers, but lacks solid background in math, and wishes to polish it, to stay updated with cutting edge machine learning solutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Quotes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;amir&lt;/em&gt; asks &lt;em&gt;mostafa&lt;/em&gt;: Do you have an educational experience? You explain very well.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mostafa&lt;/em&gt;: Don&amp;rsquo;t be discouraged if others did not contribute, be a leader who is motivating others.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 </description>
     </item>
     
